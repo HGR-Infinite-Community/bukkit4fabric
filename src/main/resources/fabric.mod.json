@@ -6,7 +6,9 @@
   "name": "Bukkit for Fabric",
   "description": "An implementation of the popular Bukkit API for Fabric",
   "authors": [
-    "Isaiah"
+    "Isaiah",
+    "Sam_Chai",
+    "Mr_Notch"
   ],
   "contact": {
     "homepage": "https://fungus-soft.com/",
